@@ -1,0 +1,5 @@
+---
+applications:
+- name: siju_test
+  memory: 1024M
+  instances: 1
